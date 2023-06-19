@@ -1,2 +1,2 @@
 # LMS
-Implemeting digital library using python and OOPs concepts
+Implementing digital library using python and OOPs concepts
